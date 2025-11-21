@@ -1,82 +1,38 @@
 # 👩🏻‍💻 Carol Rodrigues
 
-**`Desenvolvedora Front End em formação.**
+**Desenvolvedora Full Stack em formação | Apaixonada por tecnologia e inovação**
 
-Me chamo Carol Rodrigues, tenho 30 anos e sou natural de Goiânia. Atualmente, estou cursando IA e Automação Digital na UniFECAF + Rocketseat. 
+## 🙋🏻‍♀️ Sobre mim
+
+Olá! Me chamo Carol Rodrigues, tenho 30 anos e sou de Goiânia-GO. Atualmente estou cursando **IA e Automação Digital** na **UniFECAF + Rocketseat**, onde venho desenvolvendo habilidades em desenvolvimento web e inteligência artificial.
+
+Estou em transição de carreira para a área de tecnologia, combinando minha experiência prévia com o aprendizado de novas ferramentas e linguagens. Busco criar soluções criativas e funcionais que façam a diferença.
+
+## 🚀 O que estou estudando
+
+- 💻 **Desenvolvimento Full Stack**: React (front-end) e Node.js (back-end)
+- 🤖 **Inteligência Artificial**: Python, IA Generativa e Large Language Models (LLMs)
+- 🎯 **Automação Digital**: Otimização de processos e workflows
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Em desenvolvimento:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 🎯 Objetivos futuros
+
+- 🌱 Me aprofundar em **React** e **Node.js** para construir aplicações robustas e escaláveis
+- 🧠 Expandir conhecimentos em **IA Generativa** e implementação de **LLMs** em projetos reais
+- 🔄 Integrar desenvolvimento web com soluções de inteligência artificial
 
 
----
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+   
 </p>
