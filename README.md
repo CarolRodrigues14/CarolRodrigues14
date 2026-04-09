@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Carol Rodrigues
 
-**Desenvolvedora Full Stack em formação | Apaixonada por tecnologia e inovação**
+**Desenvolvedora FrontEnd em formação | Apaixonada por tecnologia e inovação**
 
 ## 🙋🏻‍♀️ Sobre mim
 
